@@ -1,0 +1,6 @@
+D:\SteamLibrary\steamapps\common\Outpath First Journey\Mods\OutAPI.dll
+D:\SteamLibrary\steamapps\common\Outpath First Journey\Mods\OutAPI.pdb
+D:\GithubClones\OutAPI\OutAPI\obj\Debug\OutAPI.csproj.AssemblyReference.cache
+D:\GithubClones\OutAPI\OutAPI\obj\Debug\OutAPI.csproj.CoreCompileInputs.cache
+D:\GithubClones\OutAPI\OutAPI\obj\Debug\OutAPI.dll
+D:\GithubClones\OutAPI\OutAPI\obj\Debug\OutAPI.pdb
